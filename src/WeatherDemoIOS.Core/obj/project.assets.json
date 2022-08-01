@@ -1,0 +1,565 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {
+      "Acr.UserDialogs/7.2.0.564": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Acr.UserDialogs.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Acr.UserDialogs.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "MvvmCross/8.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MvvmCross.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.dll": {}
+        }
+      },
+      "MvvmCross.Plugin.Visibility/8.0.2": {
+        "type": "package",
+        "dependencies": {
+          "MvvmCross": "8.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/MvvmCross.Plugin.Visibility.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Plugin.Visibility.dll": {}
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard2.0/NETStandard.Library.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Xam.Plugins.Settings/3.1.1": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/Plugin.Settings.Abstractions.dll": {},
+          "lib/netstandard1.0/Plugin.Settings.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Plugin.Settings.Abstractions.dll": {},
+          "lib/netstandard1.0/Plugin.Settings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acr.UserDialogs/7.2.0.564": {
+      "sha512": "RH+DT3EO/l12EyvOlhhilFizbVMOervE6bepyTccLlSWS+7m828huXefLBYgJ31PGCdiShteXIIkeIdUTRF4iQ==",
+      "type": "package",
+      "path": "acr.userdialogs/7.2.0.564",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "acr.userdialogs.7.2.0.564.nupkg.sha512",
+        "acr.userdialogs.nuspec",
+        "lib/monoandroid10.0/Acr.UserDialogs.dll",
+        "lib/monoandroid10.0/Acr.UserDialogs.xml",
+        "lib/netstandard2.0/Acr.UserDialogs.dll",
+        "lib/netstandard2.0/Acr.UserDialogs.xml",
+        "lib/uap10.0.19041/Acr.UserDialogs.dll",
+        "lib/uap10.0.19041/Acr.UserDialogs.pri",
+        "lib/uap10.0.19041/Acr.UserDialogs.xml",
+        "lib/uap10.0.19041/Acr.UserDialogs/Acr.UserDialogs.xr.xml",
+        "lib/xamarinios10/Acr.UserDialogs.dll",
+        "lib/xamarinios10/Acr.UserDialogs.xml",
+        "lib/xamarinmac20/Acr.UserDialogs.dll",
+        "lib/xamarinmac20/Acr.UserDialogs.xml",
+        "lib/xamarintvos10/Acr.UserDialogs.dll",
+        "lib/xamarintvos10/Acr.UserDialogs.xml",
+        "readme.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+      "sha512": "NxP6ahFcBnnSfwNBi2KH2Oz8Xl5Sm2krjId/jRR3I7teFphwiUoUeZPwTNA21EX+5PtjqmyAvKaOeBXcJjcH/w==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "type": "package",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
+        "runtime.json"
+      ]
+    },
+    "MvvmCross/8.0.2": {
+      "sha512": "WsAKYGpLA0pkK5fVuQGGtYi4KmLKph4VUeknPJDUQHerPxQVlEyKg+4kaht010/mogIZUScBPmAfl4jFZstz8w==",
+      "type": "package",
+      "path": "mvvmcross/8.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/monoandroid10.0/MvvmCross.dll",
+        "lib/monoandroid10.0/MvvmCross.pdb",
+        "lib/monoandroid10.0/MvvmCross.xml",
+        "lib/net461/MvvmCross.dll",
+        "lib/net461/MvvmCross.pdb",
+        "lib/net461/MvvmCross.xml",
+        "lib/netcoreapp3.1/MvvmCross.dll",
+        "lib/netcoreapp3.1/MvvmCross.pdb",
+        "lib/netcoreapp3.1/MvvmCross.xml",
+        "lib/netstandard2.0/MvvmCross.dll",
+        "lib/netstandard2.0/MvvmCross.pdb",
+        "lib/netstandard2.0/MvvmCross.xml",
+        "lib/tizen40/MvvmCross.dll",
+        "lib/tizen40/MvvmCross.pdb",
+        "lib/tizen40/MvvmCross.xml",
+        "lib/uap10.0.16299/MvvmCross.dll",
+        "lib/uap10.0.16299/MvvmCross.pdb",
+        "lib/uap10.0.16299/MvvmCross.pri",
+        "lib/uap10.0.16299/MvvmCross.xml",
+        "lib/xamarinios10/MvvmCross.dll",
+        "lib/xamarinios10/MvvmCross.pdb",
+        "lib/xamarinios10/MvvmCross.xml",
+        "lib/xamarinmac20/MvvmCross.dll",
+        "lib/xamarinmac20/MvvmCross.pdb",
+        "lib/xamarinmac20/MvvmCross.xml",
+        "lib/xamarintvos10/MvvmCross.dll",
+        "lib/xamarintvos10/MvvmCross.pdb",
+        "lib/xamarintvos10/MvvmCross.xml",
+        "lib/xamarinwatchos10/MvvmCross.dll",
+        "lib/xamarinwatchos10/MvvmCross.pdb",
+        "lib/xamarinwatchos10/MvvmCross.xml",
+        "mvvmcross.8.0.2.nupkg.sha512",
+        "mvvmcross.nuspec",
+        "readme.txt"
+      ]
+    },
+    "MvvmCross.Plugin.Visibility/8.0.2": {
+      "sha512": "5BIWxxfMQVne6mAchAPu9R9FrQIrjyKaNjHb5EMq/IwAz4cGTOxYdbP600U3Ssst7kVvSzeCANqMiNENxkf5cg==",
+      "type": "package",
+      "path": "mvvmcross.plugin.visibility/8.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/monoandroid10.0/MvvmCross.Plugin.Visibility.dll",
+        "lib/monoandroid10.0/MvvmCross.Plugin.Visibility.pdb",
+        "lib/monoandroid10.0/MvvmCross.Plugin.Visibility.xml",
+        "lib/net461/MvvmCross.Plugin.Visibility.dll",
+        "lib/net461/MvvmCross.Plugin.Visibility.pdb",
+        "lib/net461/MvvmCross.Plugin.Visibility.xml",
+        "lib/netcoreapp3.1/MvvmCross.Plugin.Visibility.dll",
+        "lib/netcoreapp3.1/MvvmCross.Plugin.Visibility.pdb",
+        "lib/netcoreapp3.1/MvvmCross.Plugin.Visibility.xml",
+        "lib/netstandard2.0/MvvmCross.Plugin.Visibility.dll",
+        "lib/netstandard2.0/MvvmCross.Plugin.Visibility.pdb",
+        "lib/netstandard2.0/MvvmCross.Plugin.Visibility.xml",
+        "lib/tizen40/MvvmCross.Plugin.Visibility.dll",
+        "lib/tizen40/MvvmCross.Plugin.Visibility.pdb",
+        "lib/tizen40/MvvmCross.Plugin.Visibility.xml",
+        "lib/uap10.0.16299/MvvmCross.Plugin.Visibility.dll",
+        "lib/uap10.0.16299/MvvmCross.Plugin.Visibility.pdb",
+        "lib/uap10.0.16299/MvvmCross.Plugin.Visibility.pri",
+        "lib/uap10.0.16299/MvvmCross.Plugin.Visibility.xml",
+        "lib/xamarinios10/MvvmCross.Plugin.Visibility.dll",
+        "lib/xamarinios10/MvvmCross.Plugin.Visibility.pdb",
+        "lib/xamarinios10/MvvmCross.Plugin.Visibility.xml",
+        "lib/xamarinmac20/MvvmCross.Plugin.Visibility.dll",
+        "lib/xamarinmac20/MvvmCross.Plugin.Visibility.pdb",
+        "lib/xamarinmac20/MvvmCross.Plugin.Visibility.xml",
+        "lib/xamarintvos10/MvvmCross.Plugin.Visibility.dll",
+        "lib/xamarintvos10/MvvmCross.Plugin.Visibility.pdb",
+        "lib/xamarintvos10/MvvmCross.Plugin.Visibility.xml",
+        "lib/xamarinwatchos10/MvvmCross.Plugin.Visibility.dll",
+        "lib/xamarinwatchos10/MvvmCross.Plugin.Visibility.pdb",
+        "lib/xamarinwatchos10/MvvmCross.Plugin.Visibility.xml",
+        "mvvmcross.plugin.visibility.8.0.2.nupkg.sha512",
+        "mvvmcross.plugin.visibility.nuspec"
+      ]
+    },
+    "NETStandard.Library/2.0.3": {
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "type": "package",
+      "path": "netstandard.library/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/netstandard2.0/NETStandard.Library.targets",
+        "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
+        "build/netstandard2.0/ref/System.AppContext.dll",
+        "build/netstandard2.0/ref/System.Collections.Concurrent.dll",
+        "build/netstandard2.0/ref/System.Collections.NonGeneric.dll",
+        "build/netstandard2.0/ref/System.Collections.Specialized.dll",
+        "build/netstandard2.0/ref/System.Collections.dll",
+        "build/netstandard2.0/ref/System.ComponentModel.Composition.dll",
+        "build/netstandard2.0/ref/System.ComponentModel.EventBasedAsync.dll",
+        "build/netstandard2.0/ref/System.ComponentModel.Primitives.dll",
+        "build/netstandard2.0/ref/System.ComponentModel.TypeConverter.dll",
+        "build/netstandard2.0/ref/System.ComponentModel.dll",
+        "build/netstandard2.0/ref/System.Console.dll",
+        "build/netstandard2.0/ref/System.Core.dll",
+        "build/netstandard2.0/ref/System.Data.Common.dll",
+        "build/netstandard2.0/ref/System.Data.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.Contracts.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.Debug.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.FileVersionInfo.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.Process.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.StackTrace.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.TextWriterTraceListener.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.Tools.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.TraceSource.dll",
+        "build/netstandard2.0/ref/System.Diagnostics.Tracing.dll",
+        "build/netstandard2.0/ref/System.Drawing.Primitives.dll",
+        "build/netstandard2.0/ref/System.Drawing.dll",
+        "build/netstandard2.0/ref/System.Dynamic.Runtime.dll",
+        "build/netstandard2.0/ref/System.Globalization.Calendars.dll",
+        "build/netstandard2.0/ref/System.Globalization.Extensions.dll",
+        "build/netstandard2.0/ref/System.Globalization.dll",
+        "build/netstandard2.0/ref/System.IO.Compression.FileSystem.dll",
+        "build/netstandard2.0/ref/System.IO.Compression.ZipFile.dll",
+        "build/netstandard2.0/ref/System.IO.Compression.dll",
+        "build/netstandard2.0/ref/System.IO.FileSystem.DriveInfo.dll",
+        "build/netstandard2.0/ref/System.IO.FileSystem.Primitives.dll",
+        "build/netstandard2.0/ref/System.IO.FileSystem.Watcher.dll",
+        "build/netstandard2.0/ref/System.IO.FileSystem.dll",
+        "build/netstandard2.0/ref/System.IO.IsolatedStorage.dll",
+        "build/netstandard2.0/ref/System.IO.MemoryMappedFiles.dll",
+        "build/netstandard2.0/ref/System.IO.Pipes.dll",
+        "build/netstandard2.0/ref/System.IO.UnmanagedMemoryStream.dll",
+        "build/netstandard2.0/ref/System.IO.dll",
+        "build/netstandard2.0/ref/System.Linq.Expressions.dll",
+        "build/netstandard2.0/ref/System.Linq.Parallel.dll",
+        "build/netstandard2.0/ref/System.Linq.Queryable.dll",
+        "build/netstandard2.0/ref/System.Linq.dll",
+        "build/netstandard2.0/ref/System.Net.Http.dll",
+        "build/netstandard2.0/ref/System.Net.NameResolution.dll",
+        "build/netstandard2.0/ref/System.Net.NetworkInformation.dll",
+        "build/netstandard2.0/ref/System.Net.Ping.dll",
+        "build/netstandard2.0/ref/System.Net.Primitives.dll",
+        "build/netstandard2.0/ref/System.Net.Requests.dll",
+        "build/netstandard2.0/ref/System.Net.Security.dll",
+        "build/netstandard2.0/ref/System.Net.Sockets.dll",
+        "build/netstandard2.0/ref/System.Net.WebHeaderCollection.dll",
+        "build/netstandard2.0/ref/System.Net.WebSockets.Client.dll",
+        "build/netstandard2.0/ref/System.Net.WebSockets.dll",
+        "build/netstandard2.0/ref/System.Net.dll",
+        "build/netstandard2.0/ref/System.Numerics.dll",
+        "build/netstandard2.0/ref/System.ObjectModel.dll",
+        "build/netstandard2.0/ref/System.Reflection.Extensions.dll",
+        "build/netstandard2.0/ref/System.Reflection.Primitives.dll",
+        "build/netstandard2.0/ref/System.Reflection.dll",
+        "build/netstandard2.0/ref/System.Resources.Reader.dll",
+        "build/netstandard2.0/ref/System.Resources.ResourceManager.dll",
+        "build/netstandard2.0/ref/System.Resources.Writer.dll",
+        "build/netstandard2.0/ref/System.Runtime.CompilerServices.VisualC.dll",
+        "build/netstandard2.0/ref/System.Runtime.Extensions.dll",
+        "build/netstandard2.0/ref/System.Runtime.Handles.dll",
+        "build/netstandard2.0/ref/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "build/netstandard2.0/ref/System.Runtime.InteropServices.dll",
+        "build/netstandard2.0/ref/System.Runtime.Numerics.dll",
+        "build/netstandard2.0/ref/System.Runtime.Serialization.Formatters.dll",
+        "build/netstandard2.0/ref/System.Runtime.Serialization.Json.dll",
+        "build/netstandard2.0/ref/System.Runtime.Serialization.Primitives.dll",
+        "build/netstandard2.0/ref/System.Runtime.Serialization.Xml.dll",
+        "build/netstandard2.0/ref/System.Runtime.Serialization.dll",
+        "build/netstandard2.0/ref/System.Runtime.dll",
+        "build/netstandard2.0/ref/System.Security.Claims.dll",
+        "build/netstandard2.0/ref/System.Security.Cryptography.Algorithms.dll",
+        "build/netstandard2.0/ref/System.Security.Cryptography.Csp.dll",
+        "build/netstandard2.0/ref/System.Security.Cryptography.Encoding.dll",
+        "build/netstandard2.0/ref/System.Security.Cryptography.Primitives.dll",
+        "build/netstandard2.0/ref/System.Security.Cryptography.X509Certificates.dll",
+        "build/netstandard2.0/ref/System.Security.Principal.dll",
+        "build/netstandard2.0/ref/System.Security.SecureString.dll",
+        "build/netstandard2.0/ref/System.ServiceModel.Web.dll",
+        "build/netstandard2.0/ref/System.Text.Encoding.Extensions.dll",
+        "build/netstandard2.0/ref/System.Text.Encoding.dll",
+        "build/netstandard2.0/ref/System.Text.RegularExpressions.dll",
+        "build/netstandard2.0/ref/System.Threading.Overlapped.dll",
+        "build/netstandard2.0/ref/System.Threading.Tasks.Parallel.dll",
+        "build/netstandard2.0/ref/System.Threading.Tasks.dll",
+        "build/netstandard2.0/ref/System.Threading.Thread.dll",
+        "build/netstandard2.0/ref/System.Threading.ThreadPool.dll",
+        "build/netstandard2.0/ref/System.Threading.Timer.dll",
+        "build/netstandard2.0/ref/System.Threading.dll",
+        "build/netstandard2.0/ref/System.Transactions.dll",
+        "build/netstandard2.0/ref/System.ValueTuple.dll",
+        "build/netstandard2.0/ref/System.Web.dll",
+        "build/netstandard2.0/ref/System.Windows.dll",
+        "build/netstandard2.0/ref/System.Xml.Linq.dll",
+        "build/netstandard2.0/ref/System.Xml.ReaderWriter.dll",
+        "build/netstandard2.0/ref/System.Xml.Serialization.dll",
+        "build/netstandard2.0/ref/System.Xml.XDocument.dll",
+        "build/netstandard2.0/ref/System.Xml.XPath.XDocument.dll",
+        "build/netstandard2.0/ref/System.Xml.XPath.dll",
+        "build/netstandard2.0/ref/System.Xml.XmlDocument.dll",
+        "build/netstandard2.0/ref/System.Xml.XmlSerializer.dll",
+        "build/netstandard2.0/ref/System.Xml.dll",
+        "build/netstandard2.0/ref/System.dll",
+        "build/netstandard2.0/ref/mscorlib.dll",
+        "build/netstandard2.0/ref/netstandard.dll",
+        "build/netstandard2.0/ref/netstandard.xml",
+        "lib/netstandard1.0/_._",
+        "netstandard.library.2.0.3.nupkg.sha512",
+        "netstandard.library.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Xam.Plugins.Settings/3.1.1": {
+      "sha512": "EQEYQJ64ZLqui5GWkLMavgqitHxwUHZHryTzUD1021UBuz1XwDSjPL45W0K4pPXjz9oKbg7YpRXKPR1luPr/5Q==",
+      "type": "package",
+      "path": "xam.plugins.settings/3.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/MonoAndroid10/Helpers/Settings.cs.pp",
+        "content/UAP10/Helpers/Settings.cs.pp",
+        "content/Xamarin.Mac20/Helpers/Settings.cs.pp",
+        "content/Xamarin.iOS10/Helpers/Settings.cs.pp",
+        "content/net45/Helpers/Settings.cs.pp",
+        "content/netstandard1.0/Helpers/Settings.cs.pp",
+        "content/xamarintvOS/Helpers/Settings.cs.pp",
+        "content/xamarinwatchOS/Helpers/Settings.cs.pp",
+        "lib/MonoAndroid10/Plugin.Settings.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Settings.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Settings.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Settings.dll",
+        "lib/MonoAndroid10/Plugin.Settings.pdb",
+        "lib/MonoAndroid10/Plugin.Settings.xml",
+        "lib/UAP10/Plugin.Settings.Abstractions.dll",
+        "lib/UAP10/Plugin.Settings.Abstractions.pdb",
+        "lib/UAP10/Plugin.Settings.Abstractions.xml",
+        "lib/UAP10/Plugin.Settings.XML",
+        "lib/UAP10/Plugin.Settings.dll",
+        "lib/UAP10/Plugin.Settings.pdb",
+        "lib/UAP10/Plugin.Settings.pri",
+        "lib/Xamarin.Mac20/Plugin.Settings.Abstractions.dll",
+        "lib/Xamarin.Mac20/Plugin.Settings.Abstractions.pdb",
+        "lib/Xamarin.Mac20/Plugin.Settings.Abstractions.xml",
+        "lib/Xamarin.Mac20/Plugin.Settings.XML",
+        "lib/Xamarin.Mac20/Plugin.Settings.dll",
+        "lib/Xamarin.Mac20/Plugin.Settings.pdb",
+        "lib/Xamarin.iOS10/Plugin.Settings.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Settings.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Settings.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Settings.dll",
+        "lib/Xamarin.iOS10/Plugin.Settings.xml",
+        "lib/net45/Plugin.Settings.Abstractions.dll",
+        "lib/net45/Plugin.Settings.Abstractions.pdb",
+        "lib/net45/Plugin.Settings.Abstractions.xml",
+        "lib/net45/Plugin.Settings.XML",
+        "lib/net45/Plugin.Settings.dll",
+        "lib/net45/Plugin.Settings.pdb",
+        "lib/netstandard1.0/Plugin.Settings.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Settings.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Settings.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Settings.deps.json",
+        "lib/netstandard1.0/Plugin.Settings.dll",
+        "lib/netstandard1.0/Plugin.Settings.xml",
+        "lib/xamarintvOS/Plugin.Settings.Abstractions.dll",
+        "lib/xamarintvOS/Plugin.Settings.Abstractions.pdb",
+        "lib/xamarintvOS/Plugin.Settings.Abstractions.xml",
+        "lib/xamarintvOS/Plugin.Settings.dll",
+        "lib/xamarintvOS/Plugin.Settings.pdb",
+        "lib/xamarintvOS/Plugin.Settings.xml",
+        "lib/xamarinwatchOS/Plugin.Settings.Abstractions.dll",
+        "lib/xamarinwatchOS/Plugin.Settings.Abstractions.pdb",
+        "lib/xamarinwatchOS/Plugin.Settings.Abstractions.xml",
+        "lib/xamarinwatchOS/Plugin.Settings.dll",
+        "lib/xamarinwatchOS/Plugin.Settings.pdb",
+        "lib/xamarinwatchOS/Plugin.Settings.xml",
+        "readme.txt",
+        "xam.plugins.settings.3.1.1.nupkg.sha512",
+        "xam.plugins.settings.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": [
+      "Acr.UserDialogs >= 7.2.0.564",
+      "Microsoft.Extensions.Logging.Abstractions >= 5.0.0",
+      "MvvmCross >= 8.0.2",
+      "MvvmCross.Plugin.Visibility >= 8.0.2",
+      "NETStandard.Library >= 2.0.3",
+      "Newtonsoft.Json >= 13.0.1",
+      "Xam.Plugins.Settings >= 3.1.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/james/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj",
+      "projectName": "WeatherDemoIOS.Core",
+      "projectPath": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj",
+      "packagesPath": "/Users/james/.nuget/packages/",
+      "outputPath": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/james/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
+        "dependencies": {
+          "Acr.UserDialogs": {
+            "target": "Package",
+            "version": "[7.2.0.564, )"
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
+          "MvvmCross": {
+            "target": "Package",
+            "version": "[8.0.2, )"
+          },
+          "MvvmCross.Plugin.Visibility": {
+            "target": "Package",
+            "version": "[8.0.2, )"
+          },
+          "NETStandard.Library": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.0.3, )",
+            "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "Xam.Plugins.Settings": {
+            "target": "Package",
+            "version": "[3.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

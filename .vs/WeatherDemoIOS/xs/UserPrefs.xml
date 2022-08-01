@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{B4F9A237-850A-46E5-9B5E-742AEFD58765}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherDemoIOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4F07A793-19AD-46DA-BB98-853D270395B2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/xam.plugins.settings/3.1.1/readme.txt">
+    <Files>
+      <File FileName="src/WeatherDemoIOS.Core/Services/WeatherService.cs" Line="29" Column="1" NotebookId="2" />
+      <File FileName="src/WeatherDemoIOS.Core/AppConstants.cs" Line="12" Column="1" NotebookId="2" />
+      <File FileName="src/WeatherDemoIOS.Core/App.cs" Line="21" Column="32" NotebookId="2" />
+      <File FileName="src/WeatherDemoIOS.iOS/Views/Weather/WeatherDetailsViewController.cs" Line="78" Column="58" NotebookId="2" />
+      <File FileName="../../.nuget/packages/xam.plugins.settings/3.1.1/readme.txt" Line="34" Column="8" NotebookId="2" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="1729" Y="25" Width="1492" Height="1014">
+        <Files>
+          <File FileName="src/WeatherDemoIOS.iOS/Views/Main/MainViewController.cs" Line="89" Column="51" />
+          <File FileName="src/WeatherDemoIOS.Core/ViewModels/BaseViewModel.cs" Line="13" Column="1" />
+          <File FileName="src/WeatherDemoIOS.Core/Events/WeatherDetailsEventArgs.cs" Line="6" Column="41" />
+          <File FileName="src/WeatherDemoIOS.Core/Models/Main.cs" Line="11" Column="28" />
+          <File FileName="src/WeatherDemoIOS.Core/ViewModels/WeatherViewModel.cs" Line="74" Column="21" NotebookId="1" />
+          <File FileName="src/WeatherDemoIOS.Core/Models/WeatherModel.cs" Line="10" Column="39" NotebookId="1" />
+          <File FileName="src/WeatherDemoIOS.Core/ViewModels/Main/MainViewModel.cs" Line="159" Column="43" NotebookId="1" />
+          <File FileName="src/WeatherDemoIOS.Core/Services/AppSettings.cs" Line="16" Column="2" NotebookId="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherDemoIOS" expanded="True">
+            <Node name="WeatherDemoIOS.Core" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Events" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Main" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WeatherDemoIOS.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Main" expanded="True" />
+                <Node name="Weather" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherDemoIOS.Droid PreferredExecutionTarget="Android.RZCT30DGXDX" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

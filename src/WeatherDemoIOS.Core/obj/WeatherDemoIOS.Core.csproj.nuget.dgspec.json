@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj",
+        "projectName": "WeatherDemoIOS.Core",
+        "projectPath": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/WeatherDemoIOS.Core.csproj",
+        "packagesPath": "/Users/james/.nuget/packages/",
+        "outputPath": "/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/james/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.2.0.564, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.Plugin.Visibility": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Xam.Plugins.Settings": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

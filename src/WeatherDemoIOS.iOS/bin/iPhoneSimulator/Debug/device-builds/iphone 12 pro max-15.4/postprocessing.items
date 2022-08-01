@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="WeatherDemoIOS.iOS.app/WeatherDemoIOS.iOS">
+      <BCSymbolMapName>WeatherDemoIOS.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>WeatherDemoIOS.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/mtouch-symbols.list</SymbolFile>
+      <DSymName>WeatherDemoIOS.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/bin/Debug/netstandard2.0/WeatherDemoIOS.Core.deps.json
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/bin/Debug/netstandard2.0/WeatherDemoIOS.Core.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/bin/Debug/netstandard2.0/WeatherDemoIOS.Core.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.csproj.AssemblyReference.cache
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.AssemblyInfoInputs.cache
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.AssemblyInfo.cs
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.csproj.CoreCompileInputs.cache
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.Core/obj/Debug/netstandard2.0/WeatherDemoIOS.Core.csproj.CopyComplete

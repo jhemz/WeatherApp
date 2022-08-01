@@ -1,0 +1,47 @@
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.exe
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Cirrious.FluentLayouts.Touch.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Logging.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Options.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Microsoft.Extensions.Primitives.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Serilog.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Serilog.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Serilog.Extensions.Logging.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Serilog.Sinks.Xamarin.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Serilog.Sinks.Xamarin.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/WeatherDemoIOS.Core.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/WeatherDemoIOS.Core.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/actool/_PartialAppManifest.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/actool/_BundleResourceWithLogicalName.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/actool/_ProcessedImageAssetsPath.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/coremlc/_PartialAppManifest.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/_ProcessedBundleResourcesPath.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/_ProcessedContentPath.items
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/optimized/launch_image.png
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/optimized/launch_image@2x.png
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/optimized/launch_image@3x.png
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/optimized/Entitlements.plist
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-15.4/optimized/
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.csproj.AssemblyReference.cache
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.csproj.CoreCompileInputs.cache
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.csproj.CopyComplete
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.exe
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/obj/iPhoneSimulator/Debug/WeatherDemoIOS.iOS.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugin.Visibility.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugin.Visibility.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.dll
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.pdb
+/Users/james/Projects/WeatherDemoIOS/src/WeatherDemoIOS.iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.dll
